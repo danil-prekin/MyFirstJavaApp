@@ -1,0 +1,5 @@
+# Created at 2025-02-21T12:49:34.936
+Boot Manifest-JAR contains absolute paths in classpath 'D:\test-security2db-themeleaf\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

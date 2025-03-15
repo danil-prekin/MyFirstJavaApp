@@ -1,0 +1,15 @@
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\config\MvcConfig.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\config\WebSecurityConfig.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\controller\SecurityController.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\controller\StudentController.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\dto\UserDto.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\entity\Role.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\entity\Student.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\entity\User.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\repository\RoleRepository.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\repository\StudentRepository.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\repository\UserRepository.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\service\CustomUserDetailsService.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\service\UserService.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\service\UserServiceImpl.java
+D:\test-security2db-themeleaf\src\main\java\ru\urfu\testsecurity2dbthemeleaf\TestSecurity2dbThemeleafApplication.java
